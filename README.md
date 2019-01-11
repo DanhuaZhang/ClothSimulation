@@ -1,2 +1,2 @@
-# Animation-HW2
+# Cloth Simulation
 Physically-Based Simulation
